@@ -1,6 +1,6 @@
 # timer Task 
-# TO START PROJECT
-# fisrt go into project folder then 
+### TO START PROJECT
+##### fisrt go into project folder then 
 ```
 npm install
 npm run dev
